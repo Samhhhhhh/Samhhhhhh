@@ -1,6 +1,6 @@
 # Hi, I'm Samarth Pathak 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong interest in web development and building innovative solutions.
+Welcome to my GitHub profile! I'm a passionate developer with a strong interest in data analysis and building innovative solutions.
 
 ## 📫 Get in Touch
 - **Phone**: [+91 9619372268](tel:+919619372268)
